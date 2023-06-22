@@ -1,0 +1,41 @@
+.log-hours{
+    width: 100%;
+    /* background-color: aliceblue; */
+}
+
+.log-hours > .login-form > .title{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 2rem 0 3rem 0;
+    text-align: center;
+}
+.log-hours > .login-form > .success-cont{
+    text-align: center;
+}
+
+
+/* .log-hours > .login-form > .form > form{
+
+} */
+
+.log-hours > .login-form > .form > form > .button-container{
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.log-hours > .login-form > .form > form > .button-container > .submit-btn{
+    padding: 0.5rem 1.5rem;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #5c5c5c;
+
+}
+
+.log-hours > .login-form > .form > form > .button-container > .submit-btn:hover{
+    background-color: #999999;
+}
+
+.log-hours > .login-form > .form > form > .button-container > .submit-btn:active{
+    background-color: #4149da;
+}
